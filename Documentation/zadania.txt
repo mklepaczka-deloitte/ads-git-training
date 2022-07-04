@@ -1,0 +1,31 @@
+## Zadanie 1. 
+
+Załóż konto w serwisie github.com korzystając z maila służbowego. 
+Jako nazwę użytkownika użyj części adresu email przed @. (xxxyyy w przypadku xxxyyy@deloittece.com)
+
+
+## Zadanie 2. 
+
+Pobierz repozytorium używając git clone: 
+https://github.com/mklepaczka-deloitte/ads-git-training
+
+
+## Zadanie 3. 
+
+Stwórz nowy branch o nazwie "feature/<login>-training-branch"
+
+Następnie w katalogu "Scripts" dodaj plik z unikalną nazwą i rozszerzeniem .sql, 
+w którym znajdować się będzie skrypt sql do stworzenia wymyślonej przez Ciebie tabeli. 
+
+Wrzuć swoje zmiany do zdalnego repozytorium tak żeby były widoczne na GitHub'ie. 
+
+Stwórz "Pull request" w celu przeniesienia twojego kodu do głównego brancha. 
+
+
+## Zadanie 4. 
+
+Zanim twój pull request z poprzedniego zadanie będzie mógł być zaakceptowany musisz dopisać się do listy uczestników kursu. 
+Plik z uczestnikami ma nazwę training_log.txt i oprócz listy uczestników zawiera także datę i godzinę ostatniej modyfikacji. 
+Niestety nie jest to jeszcze zautomatyzowane i każdy aktualizujący musi dopasować czas ręcznie. 
+
+
