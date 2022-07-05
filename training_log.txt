@@ -1,6 +1,7 @@
 Lista uczestników szkolenia GIT
 
-Ostatnia aktualizacja: 04.07.2022 22:02
+Ostatnia aktualizacja: 05.07.2022 14:45
 
 Uczestnicy (imię nazwisko): 
 Marcin Klepaczka
+Aleksandra Rozmus
