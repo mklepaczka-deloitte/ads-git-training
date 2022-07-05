@@ -1,7 +1,8 @@
 Lista uczestników szkolenia GIT
 
+<<<<<<< HEAD
 Ostatnia aktualizacja: 05.07.2022 14:48
 
 Uczestnicy (imię nazwisko): 
 Marcin Klepaczka
-Jakub Płuciennik
+Jakub Pluciennik
