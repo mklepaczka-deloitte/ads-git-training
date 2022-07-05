@@ -2,6 +2,7 @@
 Załóż konto w serwisie github.com korzystając z maila służbowego. 
 Jako nazwę użytkownika użyj części adresu email przed @. (xxxyyy w przypadku xxxyyy@deloittece.com)
 
+Wyślij nazwę użytkownika do prowadzącego. 
 
 ## Zadanie 2. 
 Zainstaluj GIT for Windows (https://gitforwindows.org/). (Domyślne opcje są ok.)
