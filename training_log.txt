@@ -1,8 +1,10 @@
 Lista uczestników szkolenia GIT
 
+<<<<<<< HEAD
 Ostatnia aktualizacja: 05.07.2022 15:10
 
 Uczestnicy (imię nazwisko): 
 Marcin Klepaczka
 Julia Janiak
+
 
