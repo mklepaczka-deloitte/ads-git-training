@@ -1,6 +1,15 @@
+
 Lista uczestników szkolenia GIT
 
+<<<<<<< HEAD
+Ostatnia aktualizacja: 05.07.2022 14:40
+
+Uczestnicy (imię nazwisko): 
+Marcin Klepaczka
+Julian Tarczynski
+=======
 Ostatnia aktualizacja: 05.07.2022 14:37
 
 Uczestnicy (imię nazwisko): 
 Marcin Klepaczka
+>>>>>>> main
