@@ -1,6 +1,7 @@
 Lista uczestników szkolenia GIT
 
-Ostatnia aktualizacja: 05.07.2022 14:55
+Ostatnia aktualizacja: 05.07.2022 15:20
+
 
 Uczestnicy (imię nazwisko): 
 Marcin Klepaczka
