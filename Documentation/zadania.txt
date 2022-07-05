@@ -1,17 +1,18 @@
 ## Zadanie 1. 
-
 Załóż konto w serwisie github.com korzystając z maila służbowego. 
 Jako nazwę użytkownika użyj części adresu email przed @. (xxxyyy w przypadku xxxyyy@deloittece.com)
 
 
 ## Zadanie 2. 
+Zainstaluj GIT for Windows (https://gitforwindows.org/). (Domyślne opcje są ok.)
 
+
+## Zadanie 3. 
 Pobierz repozytorium używając git clone: 
 https://github.com/mklepaczka-deloitte/ads-git-training
 
 
-## Zadanie 3. 
-
+## Zadanie 4. 
 Stwórz nowy branch o nazwie "feature/<login>-training-branch"
 
 Następnie w katalogu "Scripts" dodaj plik z unikalną nazwą i rozszerzeniem .sql, 
@@ -22,10 +23,16 @@ Wrzuć swoje zmiany do zdalnego repozytorium tak żeby były widoczne na GitHub'
 Stwórz "Pull request" w celu przeniesienia twojego kodu do głównego brancha. 
 
 
-## Zadanie 4. 
-
+## Zadanie 5. 
 Zanim twój pull request z poprzedniego zadanie będzie mógł być zaakceptowany musisz dopisać się do listy uczestników kursu. 
 Plik z uczestnikami ma nazwę training_log.txt i oprócz listy uczestników zawiera także datę i godzinę ostatniej modyfikacji. 
-Niestety nie jest to jeszcze zautomatyzowane i każdy aktualizujący musi dopasować czas ręcznie. 
+Niestety nie jest to jeszcze zautomatyzowane i każdy aktualizujący musi dopasować czas ręcznie.
+Drugi 'commit' powinien zawierać aktualizację tego pliku. 
+
+
+## Zadanie 6.
+Zadbaj o to aby twój pull request został "zmergowany".  
+
+
 
 
